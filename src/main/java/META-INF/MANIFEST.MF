@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Main-Class: 
+Main-Class: Main
 Class-Path: jsr305-3.0.2.jar okio-1.17.2.jar jackson-core-2.10.1.jar tro
  ve4j-3.0.3.jar jackson-databind-2.10.1.jar opus-java-natives-1.0.4.jar 
  opus-java-api-1.0.4.jar jackson-annotations-2.10.1.jar commons-io-2.6.j

@@ -1,1 +1,1 @@
-Worker: java -jar working.jar
+Worker: java src/main/java/Main.java

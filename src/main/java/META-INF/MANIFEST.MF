@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: jsr305-3.0.2.jar okio-1.17.2.jar jackson-core-2.10.1.jar tro
+ ve4j-3.0.3.jar jackson-databind-2.10.1.jar opus-java-natives-1.0.4.jar 
+ opus-java-api-1.0.4.jar jackson-annotations-2.10.1.jar commons-io-2.6.j
+ ar okhttp-3.13.0.jar commons-collections4-4.1.jar jna-4.4.0.jar annotat
+ ions-16.0.1.jar nv-websocket-client-2.10.jar JDA-4.2.0_241.jar slf4j-ap
+ i-1.7.25.jar sqlite-jdbc-3.34.0.jar
+
